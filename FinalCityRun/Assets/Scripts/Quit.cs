@@ -5,7 +5,8 @@ using UnityEngine;
 public class Quit : MonoBehaviour
 {
     public GameObject panel;
-
+    public GameObject panelPause;
+    
     
     public void QuitGame()
     {
@@ -18,7 +19,7 @@ public class Quit : MonoBehaviour
         {
             bool isActive = panel.activeSelf;
             panel.SetActive(false);
-            Debug.Log("closePanel");
+            panelPause.SetActive(true);
         }
     }
 }

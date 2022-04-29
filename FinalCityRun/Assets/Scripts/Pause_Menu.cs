@@ -19,6 +19,8 @@ public class Pause_Menu : MonoBehaviour
         PauseMenu.SetActive(true);
         Time.timeScale = 0;
         gameObject.SetActive(true);
+        AudioListener.volume = 0;
+        Debug.Log("Game is Paused");
         // Player.enabled = false;
     }
 
@@ -27,6 +29,8 @@ public class Pause_Menu : MonoBehaviour
     {
         PauseMenu.SetActive(false);
         Time.timeScale = 1;
+        AudioListener.volume = 1;
+
     }
 
 

@@ -6,9 +6,11 @@ public class Settings_Panel : MonoBehaviour
 {
     public GameObject Panel;
 
+
     void Start()
     {
         Panel.gameObject.SetActive(false);
+        Panel.SetActive(false);
     }
 
     public void openPanel()
@@ -28,7 +30,7 @@ public class Settings_Panel : MonoBehaviour
             Panel.SetActive(false);
         }
     }
-
+   
     public void Audio_On_Off()
     {
         if (AudioListener.volume == 0)

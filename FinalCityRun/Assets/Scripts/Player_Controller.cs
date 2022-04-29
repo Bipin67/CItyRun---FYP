@@ -11,7 +11,7 @@ public class Player_Controller : MonoBehaviour
     private Animator anim;
     private bool isDead;
 
-    private float speed = 10.0f;
+    public float speed = 10.0f;
     private float verticalVelocity = 0.5f;
     private float gravity = 12.0f;
 
@@ -19,10 +19,14 @@ public class Player_Controller : MonoBehaviour
     public AudioSource coinSound;
     public float coin = 0;
     public Text coinCount;
+    public Text coinCount2;
     public AudioSource GameOverSound;
     public bool jump = false;
     public bool slide = false;
 
+    //On test 2
+    private float Bostertimer;
+    private bool IsBoosting;//
 
     // Start is called before the first frame update
     void Start()
@@ -37,6 +41,18 @@ public class Player_Controller : MonoBehaviour
     void Update()
     {
         coinCount.text = coin.ToString();
+        coinCount2.text = coin.ToString();
+        //On test 2
+        if (IsBoosting)
+        {
+            Bostertimer += Time.deltaTime;
+            if (Bostertimer >= 3)
+            {
+                IsBoosting = false;
+                Bostertimer = 0;
+                speed = 10.0f;
+            }
+        }//
 
         if (isDead)
         {
@@ -144,6 +160,16 @@ public class Player_Controller : MonoBehaviour
             coinSound.Play();
             coin += 1f;
         }
+        // if the player hits a booster
+        if (other.tag == "Booster")
+        {
+            IsBoosting = true;
+            speed = 50.0f;
+            Destroy(other.gameObject, 0.1f);
+            coinSound.Play();
+            coin += 1f;
+        }//
+
     }
 
     private void Death()
