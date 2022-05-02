@@ -11,6 +11,7 @@ public class SettingsMain : MonoBehaviour
     void Start()
     {
         panel.gameObject.SetActive(false);
+        // pauseMenu.gameObject.SetActive(false);
     }
 
   public void OpenPanel()
@@ -19,15 +20,18 @@ public class SettingsMain : MonoBehaviour
         {
             bool isActive = panel.activeSelf;
             panel.SetActive(true);
+            // ClosePausePanel();
         }
+        // pauseMenu.gameObject.SetActive(false);
+
     }
 
-   public void ClosePausePanel()
-    {
-        if (pauseMenu != null)
-        {
-            bool isActive = pauseMenu.activeSelf;
-            pauseMenu.SetActive(false);
-        }
-    }
+   // private void ClosePausePanel()
+   //  {
+   //      if (pauseMenu != null)
+   //      {
+   //          bool isActive = pauseMenu.activeSelf;
+   //          pauseMenu.SetActive(false);
+   //      }
+   //  }
 }
