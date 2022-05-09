@@ -1,37 +1,39 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using DG.Tweening;
 using UnityEngine;
 
 public class SettingsMain : MonoBehaviour
 {
     public GameObject panel;
-    public GameObject pauseMenu;
-
+    
     void Start()
     {
+        //Panel disabling at start
         panel.gameObject.SetActive(false);
-        // pauseMenu.gameObject.SetActive(false);
     }
 
   public void OpenPanel()
     {
         if (panel != null)
         {
-            bool isActive = panel.activeSelf;
-            panel.SetActive(true);
-            // ClosePausePanel();
+            // bool isActive = panel.activeSelf;
+            panel.SetActive(true); //activating the panel
+            Time.timeScale = 0; //pausing the game on panel open.
+            AudioListener.volume = 0; // Audio to 0 on panel open.
+            
         }
-        // pauseMenu.gameObject.SetActive(false);
-
     }
 
-   // private void ClosePausePanel()
-   //  {
-   //      if (pauseMenu != null)
-   //      {
-   //          bool isActive = pauseMenu.activeSelf;
-   //          pauseMenu.SetActive(false);
-   //      }
-   //  }
+    public void ClosePausePanel()
+    {
+        if (panel != null)
+        {
+            bool isActive = panel.activeSelf;
+            panel.SetActive(false);
+            Time.timeScale = 1;
+            AudioListener.volume = 1;
+        }
+    }
 }

@@ -27,8 +27,7 @@ public class Player_Controller : MonoBehaviour
     //On test 2
     private float Bostertimer;
     private bool IsBoosting;//
-
-    // Start is called before the first frame update
+    
     void Start()
     {
         Controller = GetComponent<CharacterController>();
@@ -73,8 +72,8 @@ public class Player_Controller : MonoBehaviour
 
         // x - left and right
         moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
+        
         //for mobile divices
-        // moveVector.x = Input.acceleration.x * speed*4;
         if (Input.GetMouseButton(0))
         {
             if (Input.mousePosition.x < Screen.width / 4)
@@ -86,11 +85,11 @@ public class Player_Controller : MonoBehaviour
                 moveVector.x = speed;
             }
         }
-        // y - up and down
-        // moveVector.y = verticalVelocity;
-
+       
 
         //Player Jump activation 
+     
+        
         if (Input.GetKeyDown(KeyCode.Space))
         {
             jump = true;
@@ -125,6 +124,8 @@ public class Player_Controller : MonoBehaviour
         if(slide == true)
         {
             anim.SetBool("isSlide", true);
+            Controller.height = 0.5f;
+            Controller.radius = 0.2f;
         }
         else if (jump == false)
         {
@@ -158,6 +159,8 @@ public class Player_Controller : MonoBehaviour
         {
             Destroy(other.gameObject, 0.1f);
             coinSound.Play();
+            Controller.height = 1.76f;
+            Controller.radius = 0.4f;
             coin += 1f;
         }
         // if the player hits a booster
@@ -187,5 +190,5 @@ public class Player_Controller : MonoBehaviour
         Application.LoadLevel(Application.loadedLevelName);
     }
 
-
+    
 }
