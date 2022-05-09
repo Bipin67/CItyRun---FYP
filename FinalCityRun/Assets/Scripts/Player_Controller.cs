@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,10 +10,10 @@ public class Player_Controller : MonoBehaviour
     private CharacterController Controller;
     private Vector3 moveVector;
     private Animator anim;
-    private bool isDead;
+    private bool _isDead;
 
     public float speed = 10.0f;
-    private float verticalVelocity = 0.5f;
+    private float _verticalVelocity = 0.5f;
     private float gravity = 12.0f;
 
     public AudioSource MainTheme;
@@ -28,12 +29,13 @@ public class Player_Controller : MonoBehaviour
     private float Bostertimer;
     private bool IsBoosting;//
     
+
+    
     void Start()
     {
         Controller = GetComponent<CharacterController>();
         anim = GetComponent<Animator>();
         MainTheme.Play();
-
     }
 
     // Update is called once per frame
@@ -53,7 +55,7 @@ public class Player_Controller : MonoBehaviour
             }
         }//
 
-        if (isDead)
+        if (_isDead)
         {
             return;
         }
@@ -63,20 +65,20 @@ public class Player_Controller : MonoBehaviour
         // check if the player is grounded
         if (Controller.isGrounded)
         {
-            verticalVelocity = -0.5f;
+            _verticalVelocity = -0.5f;
         }
         else
         {
-            verticalVelocity -= gravity * Time.deltaTime;
+            _verticalVelocity -= gravity * Time.deltaTime;
         }
 
         // x - left and right
         moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
         
-        //for mobile divices
+        // //for mobile divices
         if (Input.GetMouseButton(0))
         {
-            if (Input.mousePosition.x < Screen.width / 4)
+            if (Input.mousePosition.x < Screen.width / 4 )
             {
                 moveVector.x = -speed;
             }
@@ -85,11 +87,8 @@ public class Player_Controller : MonoBehaviour
                 moveVector.x = speed;
             }
         }
-       
-
-        //Player Jump activation 
-     
         
+        //Player Jump activation 
         if (Input.GetKeyDown(KeyCode.Space))
         {
             jump = true;
@@ -103,6 +102,8 @@ public class Player_Controller : MonoBehaviour
         if(jump == true)
         {
             anim.SetBool("isJump", true);
+            Controller.height = 0.5f;
+            Controller.radius = 0.2f;
         }
         else if (jump == false)
         {
@@ -119,6 +120,7 @@ public class Player_Controller : MonoBehaviour
         {
             slide = false;
             anim.SetBool("isSlide", false);
+            
         }
 
         if(slide == true)
@@ -127,15 +129,17 @@ public class Player_Controller : MonoBehaviour
             Controller.height = 0.5f;
             Controller.radius = 0.2f;
         }
-        else if (jump == false)
+        else if (slide == false)
         {
             anim.SetBool("isSlide", false);
+            
         }
         
 
         // z -  Forward and backward
         moveVector.z = speed;
         Controller.Move(moveVector * Time.deltaTime); // move forward
+     
     }
 
     public void SetSpeed(float modifier)
@@ -147,7 +151,7 @@ public class Player_Controller : MonoBehaviour
     void OnControllerColliderHit(ControllerColliderHit hit)
     {
         // if the player hits an obstacle
-        if (hit.transform.tag == "Obstacle" && !isDead)
+        if (hit.transform.tag == "Obstacle" && !_isDead)
         {
             Death();
         }
@@ -178,7 +182,7 @@ public class Player_Controller : MonoBehaviour
     private void Death()
     {
         // destroy the obstacle
-        isDead = true;
+        _isDead = true;
         anim.SetTrigger("death");
         MainTheme.Stop();
         GameOverSound.Play();
@@ -189,6 +193,4 @@ public class Player_Controller : MonoBehaviour
         //reload the scene
         Application.LoadLevel(Application.loadedLevelName);
     }
-
-    
 }

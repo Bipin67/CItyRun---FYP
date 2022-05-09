@@ -649,7 +649,7 @@ TextureImporter:
     second: GUIPNG_214
   - first:
       213: 2629857761965015347
-    second: GUIPNG_215
+    second: GUIPNG_left
   - first:
       213: -3976256036024424594
     second: GUIPNG_216
@@ -5572,7 +5572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GUIPNG_215
+      name: GUIPNG_left
       rect:
         serializedVersion: 2
         x: 6200
@@ -5581,7 +5581,7 @@ TextureImporter:
         height: 180
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 75, y: 81, z: 73, w: 73}
       outline: []
       physicsShape: []
       tessellationDetail: 0
