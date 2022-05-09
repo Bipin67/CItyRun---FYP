@@ -1,0 +1,7668 @@
+fileFormatVersion: 2
+guid: daa740117b33c3a46bbe98d88ced4241
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1171171656705492462
+    second: GUIPNG_
+  - first:
+      213: -732924127463891575
+    second: GUIPNG_1
+  - first:
+      213: 1632898109363356006
+    second: GUIPNG_2
+  - first:
+      213: -7451170083481527399
+    second: GUIPNG_3
+  - first:
+      213: 6216191586466820766
+    second: GUIPNG_4
+  - first:
+      213: 1163621509493579879
+    second: GUIPNG_5
+  - first:
+      213: -7978438643942611522
+    second: GUIPNG_6
+  - first:
+      213: -3237127655636213467
+    second: GUIPNG_7
+  - first:
+      213: -5269302491092184564
+    second: GUIPNG_8
+  - first:
+      213: -3409220270686026627
+    second: GUIPNG_9
+  - first:
+      213: 7543672839777834154
+    second: GUIPNG_10
+  - first:
+      213: -3128659997874011422
+    second: GUIPNG_11
+  - first:
+      213: -8170538769286080146
+    second: GUIPNG_12
+  - first:
+      213: -973362727582464681
+    second: GUIPNG_13
+  - first:
+      213: -1720700642646819716
+    second: GUIPNG_14
+  - first:
+      213: -3894744107647283113
+    second: GUIPNG_15
+  - first:
+      213: 5802828100373197062
+    second: GUIPNG_16
+  - first:
+      213: 5838022609661529339
+    second: GUIPNG_17
+  - first:
+      213: -5302185420328343702
+    second: GUIPNG_18
+  - first:
+      213: 1158851343355013891
+    second: GUIPNG_19
+  - first:
+      213: 1537338183484022674
+    second: GUIPNG_20
+  - first:
+      213: 6693569765438329494
+    second: GUIPNG_21
+  - first:
+      213: -5742863409427261588
+    second: GUIPNG_22
+  - first:
+      213: 4210839261375756179
+    second: GUIPNG_23
+  - first:
+      213: -1574084909008214198
+    second: GUIPNG_24
+  - first:
+      213: 3333708713229123085
+    second: GUIPNG_25
+  - first:
+      213: 8597925060986569493
+    second: GUIPNG_26
+  - first:
+      213: -4834002849541020562
+    second: GUIPNG_27
+  - first:
+      213: 7554457695263045049
+    second: GUIPNG_28
+  - first:
+      213: 7957125503059680897
+    second: GUIPNG_29
+  - first:
+      213: 7216665102883889084
+    second: GUIPNG_30
+  - first:
+      213: 8558325127089186361
+    second: GUIPNG_31
+  - first:
+      213: -4490665647494282625
+    second: GUIPNG_32
+  - first:
+      213: 1860627167599721999
+    second: GUIPNG_33
+  - first:
+      213: 7337740155673589573
+    second: GUIPNG_34
+  - first:
+      213: -3021784722547921742
+    second: GUIPNG_35
+  - first:
+      213: 1360156832874597418
+    second: GUIPNG_36
+  - first:
+      213: 8488562168770319874
+    second: GUIPNG_37
+  - first:
+      213: -6101272404708674624
+    second: GUIPNG_38
+  - first:
+      213: 1095144151451047862
+    second: GUIPNG_39
+  - first:
+      213: -6526234018503423652
+    second: GUIPNG_40
+  - first:
+      213: -2364615763370918899
+    second: GUIPNG_41
+  - first:
+      213: 8777813836544766306
+    second: GUIPNG_42
+  - first:
+      213: -2005580008008832573
+    second: GUIPNG_43
+  - first:
+      213: 2621277917551223333
+    second: GUIPNG_44
+  - first:
+      213: 8671697383858558771
+    second: GUIPNG_45
+  - first:
+      213: -1443683641800619036
+    second: GUIPNG_46
+  - first:
+      213: 5987773228665570708
+    second: GUIPNG_47
+  - first:
+      213: 5897750529437819476
+    second: GUIPNG_48
+  - first:
+      213: 5083416606553735053
+    second: GUIPNG_49
+  - first:
+      213: 3951753601211331227
+    second: GUIPNG_50
+  - first:
+      213: 7462537069849081945
+    second: GUIPNG_51
+  - first:
+      213: -2452019651160302056
+    second: GUIPNG_52
+  - first:
+      213: 8020005787193372254
+    second: GUIPNG_53
+  - first:
+      213: -8454820133880818059
+    second: GUIPNG_54
+  - first:
+      213: 4871397536399607125
+    second: GUIPNG_55
+  - first:
+      213: -2222210710990436707
+    second: GUIPNG_56
+  - first:
+      213: -5044666458509983986
+    second: GUIPNG_57
+  - first:
+      213: 5354514653750308985
+    second: GUIPNG_58
+  - first:
+      213: -694984567337052569
+    second: GUIPNG_59
+  - first:
+      213: -3536223559072078333
+    second: GUIPNG_60
+  - first:
+      213: 9166735344020827258
+    second: GUIPNG_61
+  - first:
+      213: -7448715740087986524
+    second: GUIPNG_62
+  - first:
+      213: -3036463064025726504
+    second: GUIPNG_63
+  - first:
+      213: 6411883773054371401
+    second: GUIPNG_64
+  - first:
+      213: 6407707080697306148
+    second: GUIPNG_65
+  - first:
+      213: -3688479222311626632
+    second: GUIPNG_66
+  - first:
+      213: -720012639663301919
+    second: GUIPNG_67
+  - first:
+      213: 1007940466279246412
+    second: GUIPNG_68
+  - first:
+      213: 1251884098620219213
+    second: GUIPNG_69
+  - first:
+      213: -2494825741615157164
+    second: GUIPNG_70
+  - first:
+      213: -8225108162887951681
+    second: GUIPNG_71
+  - first:
+      213: 5039861170063842140
+    second: GUIPNG_72
+  - first:
+      213: -423288899157139169
+    second: GUIPNG_73
+  - first:
+      213: -5277977511251725960
+    second: GUIPNG_74
+  - first:
+      213: -3478491468620077229
+    second: GUIPNG_75
+  - first:
+      213: 3120434075415969449
+    second: GUIPNG_76
+  - first:
+      213: 8367665787938470502
+    second: GUIPNG_77
+  - first:
+      213: 1416403893866657764
+    second: GUIPNG_78
+  - first:
+      213: -4752348094138438477
+    second: GUIPNG_79
+  - first:
+      213: 7358645617809788222
+    second: GUIPNG_80
+  - first:
+      213: 523214102552420255
+    second: GUIPNG_81
+  - first:
+      213: -2648718990199305282
+    second: GUIPNG_82
+  - first:
+      213: -5717983429152333879
+    second: GUIPNG_83
+  - first:
+      213: -5881719986429847039
+    second: GUIPNG_84
+  - first:
+      213: 1629551968355420244
+    second: GUIPNG_85
+  - first:
+      213: 265187757176867781
+    second: GUIPNG_86
+  - first:
+      213: 5791878173112221954
+    second: GUIPNG_87
+  - first:
+      213: 5180221667662747208
+    second: GUIPNG_88
+  - first:
+      213: -7969619465145662289
+    second: GUIPNG_89
+  - first:
+      213: 5677327027413125393
+    second: GUIPNG_90
+  - first:
+      213: -3976398946321214608
+    second: GUIPNG_91
+  - first:
+      213: -2912026849985562828
+    second: GUIPNG_92
+  - first:
+      213: -2441514936181282118
+    second: GUIPNG_93
+  - first:
+      213: -1159108586820375811
+    second: GUIPNG_94
+  - first:
+      213: 4709003929246668220
+    second: GUIPNG_95
+  - first:
+      213: 8160704894026961955
+    second: GUIPNG_96
+  - first:
+      213: -5214050469122174247
+    second: GUIPNG_97
+  - first:
+      213: -8026074699655738715
+    second: GUIPNG_98
+  - first:
+      213: -1905526014031306294
+    second: GUIPNG_99
+  - first:
+      213: 5771838791721403285
+    second: GUIPNG_100
+  - first:
+      213: 7560671440843277852
+    second: GUIPNG_101
+  - first:
+      213: -4172834374433531029
+    second: GUIPNG_102
+  - first:
+      213: -318217798618317588
+    second: GUIPNG_103
+  - first:
+      213: 7555035780095503419
+    second: GUIPNG_104
+  - first:
+      213: 7666916839342605247
+    second: GUIPNG_105
+  - first:
+      213: 1765975501142029346
+    second: GUIPNG_106
+  - first:
+      213: -6171719270083787688
+    second: GUIPNG_107
+  - first:
+      213: -6588951197832898297
+    second: GUIPNG_108
+  - first:
+      213: -36305181577331427
+    second: GUIPNG_109
+  - first:
+      213: -5924465740096755753
+    second: GUIPNG_110
+  - first:
+      213: 8923839381716235675
+    second: GUIPNG_111
+  - first:
+      213: -6690293049261143198
+    second: GUIPNG_112
+  - first:
+      213: -1048072944124979941
+    second: GUIPNG_113
+  - first:
+      213: -1478700745176520271
+    second: GUIPNG_114
+  - first:
+      213: 4088257224690753597
+    second: GUIPNG_115
+  - first:
+      213: -7261889153848561265
+    second: GUIPNG_116
+  - first:
+      213: -3346533039014266188
+    second: GUIPNG_117
+  - first:
+      213: -7225002152493321458
+    second: GUIPNG_118
+  - first:
+      213: -1140238397139439573
+    second: GUIPNG_119
+  - first:
+      213: -5255198411186994882
+    second: GUIPNG_120
+  - first:
+      213: -1895625321009772130
+    second: GUIPNG_121
+  - first:
+      213: 8736264077393099127
+    second: GUIPNG_122
+  - first:
+      213: -1760039459835166197
+    second: GUIPNG_123
+  - first:
+      213: 3288020131234899534
+    second: GUIPNG_124
+  - first:
+      213: -5068006403216593461
+    second: GUIPNG_125
+  - first:
+      213: -6881242909194591434
+    second: GUIPNG_126
+  - first:
+      213: -5875644916409240179
+    second: GUIPNG_127
+  - first:
+      213: -4379496300317538940
+    second: GUIPNG_128
+  - first:
+      213: 4187947401335025867
+    second: GUIPNG_129
+  - first:
+      213: -5456565374113873507
+    second: GUIPNG_130
+  - first:
+      213: 3874571469159441598
+    second: GUIPNG_131
+  - first:
+      213: 2019833294285650752
+    second: GUIPNG_132
+  - first:
+      213: -5098472865959410708
+    second: GUIPNG_133
+  - first:
+      213: 6662117218539599688
+    second: GUIPNG_134
+  - first:
+      213: 3786222344475639764
+    second: GUIPNG_135
+  - first:
+      213: 3634248212368877932
+    second: GUIPNG_136
+  - first:
+      213: -4672164567161731228
+    second: GUIPNG_137
+  - first:
+      213: -5362907943966360141
+    second: GUIPNG_138
+  - first:
+      213: 2594115941202030642
+    second: GUIPNG_139
+  - first:
+      213: -2450454840948579123
+    second: GUIPNG_140
+  - first:
+      213: -5970451332915066328
+    second: GUIPNG_141
+  - first:
+      213: 3190057255580498434
+    second: GUIPNG_142
+  - first:
+      213: 5528816952010247355
+    second: GUIPNG_143
+  - first:
+      213: 147695392404932144
+    second: GUIPNG_144
+  - first:
+      213: 5887036685384356829
+    second: GUIPNG_145
+  - first:
+      213: -3663566887039503943
+    second: GUIPNG_146
+  - first:
+      213: 1520918811335751896
+    second: GUIPNG_147
+  - first:
+      213: -6267917411630001418
+    second: GUIPNG_148
+  - first:
+      213: -5159781586529737766
+    second: GUIPNG_149
+  - first:
+      213: -6806574189926823383
+    second: GUIPNG_150
+  - first:
+      213: -670938272368328282
+    second: GUIPNG_151
+  - first:
+      213: 1135335718468603007
+    second: GUIPNG_152
+  - first:
+      213: 1216494716550031099
+    second: GUIPNG_153
+  - first:
+      213: 7344428332797266853
+    second: GUIPNG_154
+  - first:
+      213: -5287502369282055275
+    second: GUIPNG_155
+  - first:
+      213: 5434960373909932851
+    second: GUIPNG_156
+  - first:
+      213: 4000292237852238738
+    second: GUIPNG_157
+  - first:
+      213: -3089085230926570884
+    second: GUIPNG_158
+  - first:
+      213: -6050812432025955078
+    second: GUIPNG_159
+  - first:
+      213: 4603649341953750487
+    second: GUIPNG_160
+  - first:
+      213: -7675490128327000474
+    second: GUIPNG_161
+  - first:
+      213: -4006787939270524393
+    second: GUIPNG_162
+  - first:
+      213: -7691174099263176417
+    second: GUIPNG_163
+  - first:
+      213: 6657036018397426502
+    second: GUIPNG_164
+  - first:
+      213: 7179421874098559557
+    second: GUIPNG_165
+  - first:
+      213: 7893082857085129707
+    second: GUIPNG_166
+  - first:
+      213: -6608903790275831029
+    second: GUIPNG_167
+  - first:
+      213: -1509861140716488745
+    second: GUIPNG_168
+  - first:
+      213: -7479257166682089382
+    second: GUIPNG_169
+  - first:
+      213: 2506341291143976700
+    second: GUIPNG_170
+  - first:
+      213: 726260770783758869
+    second: GUIPNG_171
+  - first:
+      213: -1186886267401328227
+    second: GUIPNG_172
+  - first:
+      213: -5546351791669467148
+    second: GUIPNG_173
+  - first:
+      213: -649336893774381696
+    second: GUIPNG_174
+  - first:
+      213: -4132664589443798812
+    second: GUIPNG_175
+  - first:
+      213: -5060914750502896984
+    second: GUIPNG_176
+  - first:
+      213: -6922219478108701302
+    second: GUIPNG_177
+  - first:
+      213: -3055251157368234031
+    second: GUIPNG_178
+  - first:
+      213: 2814084927968444440
+    second: GUIPNG_179
+  - first:
+      213: 4607323558215824176
+    second: GUIPNG_180
+  - first:
+      213: -4254716014368647379
+    second: GUIPNG_181
+  - first:
+      213: 6365181496018333142
+    second: GUIPNG_182
+  - first:
+      213: -2658055901221857604
+    second: GUIPNG_183
+  - first:
+      213: 5950709351702728676
+    second: GUIPNG_184
+  - first:
+      213: -8476458497392633806
+    second: GUIPNG_185
+  - first:
+      213: 2434760927869062063
+    second: GUIPNG_186
+  - first:
+      213: 1673414432604776623
+    second: GUIPNG_187
+  - first:
+      213: -3551721505951829359
+    second: GUIPNG_188
+  - first:
+      213: 8353076779666838363
+    second: GUIPNG_189
+  - first:
+      213: -522540932255865331
+    second: GUIPNG_190
+  - first:
+      213: 8980668350312800931
+    second: GUIPNG_191
+  - first:
+      213: 4582590618125678199
+    second: GUIPNG_192
+  - first:
+      213: -9013228579803435320
+    second: GUIPNG_193
+  - first:
+      213: -1934912040729417287
+    second: GUIPNG_194
+  - first:
+      213: -2679052055319645836
+    second: GUIPNG_195
+  - first:
+      213: -2543586094971484066
+    second: GUIPNG_196
+  - first:
+      213: 2862322174483179490
+    second: GUIPNG_197
+  - first:
+      213: -594374316147671826
+    second: GUIPNG_198
+  - first:
+      213: -2410975891849111801
+    second: GUIPNG_199
+  - first:
+      213: -6442907613400338730
+    second: GUIPNG_200
+  - first:
+      213: 3117160527875785224
+    second: GUIPNG_201
+  - first:
+      213: 6485393397076541761
+    second: GUIPNG_202
+  - first:
+      213: 8241925989379438495
+    second: GUIPNG_203
+  - first:
+      213: -7515728815710653716
+    second: GUIPNG_204
+  - first:
+      213: 1815020734111482297
+    second: GUIPNG_205
+  - first:
+      213: 8928714079933641992
+    second: GUIPNG_206
+  - first:
+      213: 4432906224278450122
+    second: GUIPNG_207
+  - first:
+      213: -2038791717329770965
+    second: GUIPNG_208
+  - first:
+      213: 9214311616462294280
+    second: GUIPNG_209
+  - first:
+      213: 2982722297760189514
+    second: GUIPNG_210
+  - first:
+      213: -8565899570802897184
+    second: GUIPNG_211
+  - first:
+      213: 3590249087462324719
+    second: GUIPNG_212
+  - first:
+      213: -4578663012651859357
+    second: GUIPNG_213
+  - first:
+      213: -4407627084137409747
+    second: GUIPNG_214
+  - first:
+      213: 2629857761965015347
+    second: GUIPNG_215
+  - first:
+      213: -3976256036024424594
+    second: GUIPNG_216
+  - first:
+      213: 7398194710016424019
+    second: GUIPNG_217
+  - first:
+      213: -410247730384567552
+    second: GUIPNG_218
+  - first:
+      213: 7110856714909258491
+    second: GUIPNG_219
+  - first:
+      213: -4967609659208816097
+    second: GUIPNG_220
+  - first:
+      213: 9135226168618098019
+    second: GUIPNG_221
+  - first:
+      213: -461547806535807104
+    second: GUIPNG_222
+  - first:
+      213: 154109517656020776
+    second: GUIPNG_223
+  - first:
+      213: -5812885474769472976
+    second: GUIPNG_224
+  - first:
+      213: -8505206286378812795
+    second: GUIPNG_225
+  - first:
+      213: 7630730624153333665
+    second: GUIPNG_226
+  - first:
+      213: 3806360569017576206
+    second: GUIPNG_227
+  - first:
+      213: -1702602332475872778
+    second: GUIPNG_228
+  - first:
+      213: 746727319338550863
+    second: GUIPNG_229
+  - first:
+      213: -9210630028480344796
+    second: GUIPNG_230
+  - first:
+      213: -5524311456283013986
+    second: GUIPNG_231
+  - first:
+      213: -6113927947065528322
+    second: GUIPNG_232
+  - first:
+      213: 1592273565461381770
+    second: GUIPNG_233
+  - first:
+      213: 1662025788636866906
+    second: GUIPNG_234
+  - first:
+      213: 332531276157096303
+    second: GUIPNG_235
+  - first:
+      213: 851695449036460948
+    second: GUIPNG_236
+  - first:
+      213: -8204887061025565262
+    second: GUIPNG_237
+  - first:
+      213: -3231127143620205290
+    second: GUIPNG_238
+  - first:
+      213: 1987088077617524650
+    second: GUIPNG_239
+  - first:
+      213: -5442252903932761544
+    second: GUIPNG_240
+  - first:
+      213: 5834536810001144593
+    second: GUIPNG_241
+  - first:
+      213: -1577327418346402906
+    second: GUIPNG_242
+  - first:
+      213: -2669332927901108889
+    second: GUIPNG_243
+  - first:
+      213: -3830591728073088964
+    second: GUIPNG_244
+  - first:
+      213: -3688221230466798149
+    second: GUIPNG_245
+  - first:
+      213: 4446354706776649362
+    second: GUIPNG_246
+  - first:
+      213: 3691668411957951159
+    second: GUIPNG_247
+  - first:
+      213: -5180053288434718893
+    second: GUIPNG_248
+  - first:
+      213: -1612698080669372345
+    second: GUIPNG_249
+  - first:
+      213: -4344681396826184564
+    second: GUIPNG_250
+  - first:
+      213: -5521846725919641452
+    second: GUIPNG_251
+  - first:
+      213: 5815198917069806263
+    second: GUIPNG_252
+  - first:
+      213: 2704725213553697635
+    second: GUIPNG_253
+  - first:
+      213: -7161394183314606327
+    second: GUIPNG_254
+  - first:
+      213: 1030278392654079705
+    second: GUIPNG_255
+  - first:
+      213: 1388112213077358415
+    second: GUIPNG_256
+  - first:
+      213: -3806138886054624209
+    second: GUIPNG_257
+  - first:
+      213: 2088292924271163268
+    second: GUIPNG_258
+  - first:
+      213: -4575125268347517427
+    second: GUIPNG_259
+  - first:
+      213: 486788401473492427
+    second: GUIPNG_260
+  - first:
+      213: -1212628789156173760
+    second: GUIPNG_261
+  - first:
+      213: -6839917623219453863
+    second: GUIPNG_262
+  - first:
+      213: -791743468550189280
+    second: GUIPNG_263
+  - first:
+      213: -2793483656994335810
+    second: GUIPNG_264
+  - first:
+      213: -9167824697739604964
+    second: GUIPNG_265
+  - first:
+      213: 4441542654944426584
+    second: GUIPNG_266
+  - first:
+      213: -6144424013310673783
+    second: GUIPNG_267
+  - first:
+      213: 5744915047946688586
+    second: GUIPNG_268
+  - first:
+      213: 9091922109987010793
+    second: GUIPNG_269
+  - first:
+      213: -4682966219696043596
+    second: GUIPNG_270
+  - first:
+      213: -1596095437320059253
+    second: GUIPNG_271
+  - first:
+      213: -7546358548549642873
+    second: GUIPNG_272
+  - first:
+      213: 1233912007130880283
+    second: GUIPNG_273
+  - first:
+      213: 6553082727779883626
+    second: GUIPNG_274
+  - first:
+      213: -9065405778225418218
+    second: GUIPNG_275
+  - first:
+      213: 6549864939886637545
+    second: GUIPNG_276
+  - first:
+      213: 4649358195129276174
+    second: GUIPNG_277
+  - first:
+      213: -1234093275978521489
+    second: GUIPNG_278
+  - first:
+      213: -7573711532632960220
+    second: GUIPNG_279
+  - first:
+      213: -8517322700627084668
+    second: GUIPNG_280
+  - first:
+      213: 5957629142310498773
+    second: GUIPNG_281
+  - first:
+      213: 3948625791202514540
+    second: GUIPNG_282
+  - first:
+      213: -4770022794544035382
+    second: GUIPNG_283
+  - first:
+      213: 3380351731495915059
+    second: GUIPNG_284
+  - first:
+      213: 8579161205691354967
+    second: GUIPNG_285
+  - first:
+      213: -3418955722607463558
+    second: GUIPNG_286
+  - first:
+      213: 1848636218887178811
+    second: GUIPNG_287
+  - first:
+      213: -1540024405777308228
+    second: GUIPNG_288
+  - first:
+      213: 1193874568055742360
+    second: GUIPNG_289
+  - first:
+      213: -5710506260421321315
+    second: GUIPNG_290
+  - first:
+      213: -3191270501047628871
+    second: GUIPNG_291
+  - first:
+      213: -4546349707762010041
+    second: GUIPNG_292
+  - first:
+      213: 7817523119293837062
+    second: GUIPNG_293
+  - first:
+      213: 7735533491209265333
+    second: GUIPNG_294
+  - first:
+      213: 6569004198816452736
+    second: GUIPNG_295
+  - first:
+      213: -6389307981103921726
+    second: GUIPNG_296
+  - first:
+      213: -2526599400405028945
+    second: GUIPNG_297
+  - first:
+      213: 7567124634919407087
+    second: GUIPNG_298
+  - first:
+      213: -6001145380200441098
+    second: GUIPNG_299
+  - first:
+      213: -6016494614370182111
+    second: GUIPNG_300
+  - first:
+      213: -2738192531182212236
+    second: GUIPNG_301
+  - first:
+      213: 1422236838096277173
+    second: GUIPNG_302
+  - first:
+      213: -5408255332981950552
+    second: GUIPNG_303
+  - first:
+      213: 274071754650712343
+    second: GUIPNG_304
+  - first:
+      213: -5678535249855487636
+    second: GUIPNG_305
+  - first:
+      213: -3502562658000546216
+    second: GUIPNG_306
+  - first:
+      213: 6429529498893233466
+    second: GUIPNG_307
+  - first:
+      213: -4734874602299655993
+    second: GUIPNG_308
+  - first:
+      213: -3852290960946661614
+    second: GUIPNG_309
+  - first:
+      213: -8619994499008867378
+    second: GUIPNG_310
+  - first:
+      213: 2087054849165548383
+    second: GUIPNG_311
+  - first:
+      213: -7243115959926360752
+    second: GUIPNG_312
+  - first:
+      213: -6733615225897734904
+    second: GUIPNG_313
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUIPNG_
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6264
+        width: 682
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a301755992fbfe0800000000000000
+      internalID: -1171171656705492462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_1
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 6239
+        width: 705
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d9337a36124d5f0800000000000000
+      internalID: -732924127463891575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6015
+        width: 560
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6618203dd2839a610800000000000000
+      internalID: 1632898109363356006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 5990
+        width: 586
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bd01d7940289890800000000000000
+      internalID: -7451170083481527399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5766
+        width: 560
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9270272059544650800000000000000
+      internalID: 6216191586466820766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_5
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 5741
+        width: 586
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606e560993062010800000000000000
+      internalID: 1163621509493579879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_6
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 4555
+        width: 961
+        height: 1249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52d8d2354e64190800000000000000
+      internalID: -7978438643942611522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_7
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 5659
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e5395c896313d0800000000000000
+      internalID: -3237127655636213467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5517
+        width: 789
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c029e546d4dafd6b0800000000000000
+      internalID: -5269302491092184564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_9
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 5492
+        width: 813
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74c2b40a3400b0d0800000000000000
+      internalID: -3409220270686026627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_10
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 5357
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa458bcca7280b860800000000000000
+      internalID: 7543672839777834154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_11
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 4574
+        width: 962
+        height: 1187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cebbee44c494d0800000000000000
+      internalID: -3128659997874011422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5268
+        width: 962
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e695529574a6c9e80800000000000000
+      internalID: -8170538769286080146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_13
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 5243
+        width: 963
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75587d0a1cbed72f0800000000000000
+      internalID: -973362727582464681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_14
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 5135
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cff36d1e7de18e0800000000000000
+      internalID: -1720700642646819716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5019
+        width: 542
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75053ac8ed613f9c0800000000000000
+      internalID: -3894744107647283113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_16
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 4994
+        width: 567
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601366f9969c78050800000000000000
+      internalID: 5802828100373197062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_17
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 4912
+        width: 416
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc039fd1a2d40150800000000000000
+      internalID: 5838022609661529339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_18
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 4994
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e210d37ada66b0800000000000000
+      internalID: -5302185420328343702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_19
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 4994
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be82c2821151010800000000000000
+      internalID: 1158851343355013891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_20
+      rect:
+        serializedVersion: 2
+        x: 5297
+        y: 4994
+        width: 193
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f9536cee8b55510800000000000000
+      internalID: 1537338183484022674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_21
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 5002
+        width: 1063
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6921f34dc3654ec50800000000000000
+      internalID: 6693569765438329494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_22
+      rect:
+        serializedVersion: 2
+        x: 6702
+        y: 4632
+        width: 747
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67df77f7204d40b0800000000000000
+      internalID: -5742863409427261588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_23
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 4913
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397f19c8ff7ef6a30800000000000000
+      internalID: 4210839261375756179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 4770
+        width: 789
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4723487d1ab72ae0800000000000000
+      internalID: -1574084909008214198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_25
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 4745
+        width: 813
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e75a47966b34e20800000000000000
+      internalID: 3333708713229123085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_26
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 4690
+        width: 416
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51388890a47f15770800000000000000
+      internalID: 8597925060986569493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_27
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 4867
+        width: 429
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a1ed150c2aecb0800000000000000
+      internalID: -4834002849541020562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_28
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 4868
+        width: 1086
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bed4af33d6d860800000000000000
+      internalID: 7554457695263045049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_29
+      rect:
+        serializedVersion: 2
+        x: 7479
+        y: 4704
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ed2138c736d6e60800000000000000
+      internalID: 7957125503059680897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_30
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 4758
+        width: 406
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf1a50fcaeb62460800000000000000
+      internalID: 7216665102883889084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_31
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 4758
+        width: 406
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366370fb5745c670800000000000000
+      internalID: 8558325127089186361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_32
+      rect:
+        serializedVersion: 2
+        x: 6256
+        y: 4759
+        width: 405
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72cd0cd263fda1c0800000000000000
+      internalID: -4490665647494282625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4506
+        width: 681
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef8380d8642d910800000000000000
+      internalID: 1860627167599721999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_34
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4494
+        width: 706
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5473b096bc3e4d560800000000000000
+      internalID: 7337740155673589573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_35
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 4548
+        width: 598
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc24d01ec67016d0800000000000000
+      internalID: -3021784722547921742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_36
+      rect:
+        serializedVersion: 2
+        x: 5359
+        y: 4550
+        width: 625
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c8f4ede6f30e210800000000000000
+      internalID: 1360156832874597418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_37
+      rect:
+        serializedVersion: 2
+        x: 6068
+        y: 4550
+        width: 606
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206df53715e6dc570800000000000000
+      internalID: 8488562168770319874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_38
+      rect:
+        serializedVersion: 2
+        x: 7522
+        y: 4336
+        width: 344
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33277e21de35ba0800000000000000
+      internalID: -6101272404708674624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4257
+        width: 560
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7161dadcbb23f00800000000000000
+      internalID: 1095144151451047862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_40
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4245
+        width: 586
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598806dcb82e65a0800000000000000
+      internalID: -6526234018503423652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_41
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3230
+        width: 961
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbcf1dd723f2fd0800000000000000
+      internalID: -2364615763370918899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_42
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 3247
+        width: 962
+        height: 1249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26172cf6d2f01d970800000000000000
+      internalID: 8777813836544766306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_43
+      rect:
+        serializedVersion: 2
+        x: 5343
+        y: 4199
+        width: 236
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92206db9fba24e0800000000000000
+      internalID: -2005580008008832573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_44
+      rect:
+        serializedVersion: 2
+        x: 5556
+        y: 4247
+        width: 284
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522673db066a06420800000000000000
+      internalID: 2621277917551223333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_45
+      rect:
+        serializedVersion: 2
+        x: 5817
+        y: 4199
+        width: 236
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d29473de085870800000000000000
+      internalID: 8671697383858558771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_46
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 3247
+        width: 961
+        height: 1249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8e62706107fbe0800000000000000
+      internalID: -1443683641800619036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_47
+      rect:
+        serializedVersion: 2
+        x: 7275
+        y: 4351
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958432e608d81350800000000000000
+      internalID: 5987773228665570708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4008
+        width: 560
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526301ebd409d150800000000000000
+      internalID: 5897750529437819476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_49
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3996
+        width: 586
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff4f6787ceb8640800000000000000
+      internalID: 5083416606553735053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_50
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 4018
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92721886f277d630800000000000000
+      internalID: 3951753601211331227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_51
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 4018
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f9834de1409760800000000000000
+      internalID: 7462537069849081945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_52
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 4018
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e105e5e1da8fdd0800000000000000
+      internalID: -2452019651160302056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_53
+      rect:
+        serializedVersion: 2
+        x: 5343
+        y: 3852
+        width: 710
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eec3a85c8cc4f60800000000000000
+      internalID: 8020005787193372254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_54
+      rect:
+        serializedVersion: 2
+        x: 7391
+        y: 4156
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576963042e17aaa80800000000000000
+      internalID: -8454820133880818059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_55
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 4134
+        width: 112
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555cfc4ef3eaa9340800000000000000
+      internalID: 4871397536399607125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_56
+      rect:
+        serializedVersion: 2
+        x: 7656
+        y: 4168
+        width: 23
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c853d12f1921e0800000000000000
+      internalID: -2222210710990436707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_57
+      rect:
+        serializedVersion: 2
+        x: 7687
+        y: 4168
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f3f22759ebdf9b0800000000000000
+      internalID: -5044666458509983986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_58
+      rect:
+        serializedVersion: 2
+        x: 7748
+        y: 4168
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970396945be0f4a40800000000000000
+      internalID: 5354514653750308985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_59
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 4168
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661f7bd73bea56f0800000000000000
+      internalID: -694984567337052569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_60
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3759
+        width: 789
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3062423a86fcceec0800000000000000
+      internalID: -3536223559072078333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_61
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3747
+        width: 814
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c216a5a39c63f70800000000000000
+      internalID: 9166735344020827258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_62
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3738
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6d137df78d0a890800000000000000
+      internalID: -7448715740087986524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_63
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 3738
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1072f5ee05cd5d0800000000000000
+      internalID: -3036463064025726504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_64
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3777
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464ff9e1569bf850800000000000000
+      internalID: 6411883773054371401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_65
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 3778
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd7b1f3afbce850800000000000000
+      internalID: 6407707080697306148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_66
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 3778
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d4b090b3efccc0800000000000000
+      internalID: -3688479222311626632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_67
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 3601
+        width: 186
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead31ba1500206f0800000000000000
+      internalID: -720012639663301919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_68
+      rect:
+        serializedVersion: 2
+        x: 5386
+        y: 3563
+        width: 186
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ae057838cecfd00800000000000000
+      internalID: 1007940466279246412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_69
+      rect:
+        serializedVersion: 2
+        x: 6066
+        y: 3769
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fd73674f59f5110800000000000000
+      internalID: 1251884098620219213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_70
+      rect:
+        serializedVersion: 2
+        x: 7247
+        y: 3769
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4503786c439906dd0800000000000000
+      internalID: -2494825741615157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_71
+      rect:
+        serializedVersion: 2
+        x: 7477
+        y: 3659
+        width: 456
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 80, y: 80, z: 80, w: 80}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad5ef44bb8add80800000000000000
+      internalID: -8225108162887951681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3510
+        width: 962
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b90f6280f21f540800000000000000
+      internalID: 5039861170063842140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_73
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3498
+        width: 962
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116f582dfc202af0800000000000000
+      internalID: -423288899157139169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_74
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3535
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871375dda6bd0c6b0800000000000000
+      internalID: -5277977511251725960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_75
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 3538
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576caa607ae9bfc0800000000000000
+      internalID: -3478491468620077229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_76
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 3538
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae713242420e4b20800000000000000
+      internalID: 3120434075415969449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_77
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 3621
+        width: 38
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66af24943bbef1470800000000000000
+      internalID: 8367665787938470502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_78
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 3621
+        width: 87
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f66846d318a310800000000000000
+      internalID: 1416403893866657764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_79
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 3621
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcafdf56944c0eb0800000000000000
+      internalID: -4752348094138438477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_80
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 3621
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d898d93392f1660800000000000000
+      internalID: 7358645617809788222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_81
+      rect:
+        serializedVersion: 2
+        x: 7611
+        y: 3456
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9c144474d24700800000000000000
+      internalID: 523214102552420255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3261
+        width: 542
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc657ac1cdd3bd0800000000000000
+      internalID: -2648718990199305282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_83
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3249
+        width: 566
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1ec9cd54a5a0b0800000000000000
+      internalID: -5717983429152333879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_84
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 3353
+        width: 226
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9884c5deef5ea0800000000000000
+      internalID: -5881719986429847039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_85
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 3227
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580dd8a1e45d9610800000000000000
+      internalID: 1629551968355420244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_86
+      rect:
+        serializedVersion: 2
+        x: 5109
+        y: 3263
+        width: 285
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4f413cd22ea300800000000000000
+      internalID: 265187757176867781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_87
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 3263
+        width: 237
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20141b20382e06050800000000000000
+      internalID: 5791878173112221954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_88
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 3223
+        width: 284
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d1d62928d3e740800000000000000
+      internalID: 5180221667662747208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_89
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 3223
+        width: 236
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa444f04259366190800000000000000
+      internalID: -7969619465145662289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_90
+      rect:
+        serializedVersion: 2
+        x: 7275
+        y: 3098
+        width: 344
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190fa60adae9ce40800000000000000
+      internalID: 5677327027413125393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_91
+      rect:
+        serializedVersion: 2
+        x: 7657
+        y: 3135
+        width: 343
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0735947e93ef0d8c0800000000000000
+      internalID: -3976398946321214608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_92
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 3246
+        width: 154
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f53e22076697d0800000000000000
+      internalID: -2912026849985562828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_93
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3012
+        width: 789
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaaa1be91ffd1ed0800000000000000
+      internalID: -2441514936181282118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_94
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3000
+        width: 814
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa677aa1e40aefe0800000000000000
+      internalID: -1159108586820375811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_95
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 3018
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59aa0df1eb95140800000000000000
+      internalID: 4709003929246668220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_96
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 3018
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324d4452dd5a04170800000000000000
+      internalID: 8160704894026961955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_97
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 3018
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2930b39b8f3a7b0800000000000000
+      internalID: -5214050469122174247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_98
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 3018
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa054aa597ad9090800000000000000
+      internalID: -8026074699655738715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_99
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 3139
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1e567af263e85e0800000000000000
+      internalID: -1905526014031306294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_100
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 2994
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593cf51fcc0b91050800000000000000
+      internalID: 5771838791721403285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_101
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 2994
+        width: 246
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1687e60e96ece860800000000000000
+      internalID: 7560671440843277852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_102
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 2994
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b995dbe3d1716c0800000000000000
+      internalID: -4172834374433531029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_103
+      rect:
+        serializedVersion: 2
+        x: 6356
+        y: 3030
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 35, z: 35, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf5202996759bf0800000000000000
+      internalID: -318217798618317588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_104
+      rect:
+        serializedVersion: 2
+        x: 6558
+        y: 3030
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c65f18301e8d860800000000000000
+      internalID: 7555035780095503419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_105
+      rect:
+        serializedVersion: 2
+        x: 6761
+        y: 3030
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30a7b8e3c566a60800000000000000
+      internalID: 7666916839342605247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_106
+      rect:
+        serializedVersion: 2
+        x: 6963
+        y: 3030
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224fc9b9c51028810800000000000000
+      internalID: 1765975501142029346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2779
+        width: 537
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540935e506a95aa0800000000000000
+      internalID: -6171719270083787688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_108
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1685
+        width: 962
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70919ca9bc75f84a0800000000000000
+      internalID: -6588951197832898297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_109
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2788
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db39431a40f7ff0800000000000000
+      internalID: -36305181577331427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_110
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 2851
+        width: 428
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 20, z: 50, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7af8d6cc118cda0800000000000000
+      internalID: -5924465740096755753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_111
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1610
+        width: 961
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9576db13a8d7db70800000000000000
+      internalID: 8923839381716235675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_112
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 1685
+        width: 962
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b468b1bed4723a0800000000000000
+      internalID: -6690293049261143198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_113
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 2788
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159bb2d53f7471f0800000000000000
+      internalID: -1048072944124979941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_114
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 2709
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9e5aab1899a7be0800000000000000
+      internalID: -1478700745176520271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_115
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2687
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ed1c09486cb830800000000000000
+      internalID: 4088257224690753597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_116
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 2722
+        width: 23
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81389a2a46983b90800000000000000
+      internalID: -7261889153848561265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_117
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 2722
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba32748ee9be81d0800000000000000
+      internalID: -3346533039014266188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_118
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 2722
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f33f62d2abbb90800000000000000
+      internalID: -7225002152493321458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_119
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2722
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203e33183f0d20f0800000000000000
+      internalID: -1140238397139439573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_120
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 2601
+        width: 186
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31800563e8c117b0800000000000000
+      internalID: -5255198411186994882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_121
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 2601
+        width: 208
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990af160d261b5e0800000000000000
+      internalID: -1895625321009772130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_122
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 2601
+        width: 193
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779750544e17d3970800000000000000
+      internalID: 8736264077393099127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_123
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 2595
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02cad5bf651397e0800000000000000
+      internalID: -1760039459835166197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_124
+      rect:
+        serializedVersion: 2
+        x: 7326
+        y: 2595
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e69083e461ad20800000000000000
+      internalID: 3288020131234899534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_125
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 2595
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdaed81703daa9b0800000000000000
+      internalID: -5068006403216593461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_126
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2556
+        width: 286
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e740580ae080a0800000000000000
+      internalID: -6881242909194591434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_127
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2594
+        width: 404
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f81b3414857ea0800000000000000
+      internalID: -5875644916409240179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_128
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 2422
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858f648157e833c0800000000000000
+      internalID: -4379496300317538940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_129
+      rect:
+        serializedVersion: 2
+        x: 6461
+        y: 2476
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0389a09f39e1a30800000000000000
+      internalID: 4187947401335025867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_130
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 2408
+        width: 605
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910f3ec3b26644b0800000000000000
+      internalID: -5456565374113873507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_131
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 2375
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4ac1c093e35c530800000000000000
+      internalID: 3874571469159441598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_132
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 2375
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b376bfda3e70c10800000000000000
+      internalID: 2019833294285650752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_133
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 2375
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce38587f0f59e39b0800000000000000
+      internalID: -5098472865959410708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_134
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 2497
+        width: 294
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f0171058947c50800000000000000
+      internalID: 6662117218539599688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_135
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 2513
+        width: 290
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dffd1b792d5b8430800000000000000
+      internalID: 3786222344475639764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_136
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 2373
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6968db7e717f6230800000000000000
+      internalID: 3634248212368877932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_137
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 2370
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46788229413292fb0800000000000000
+      internalID: -4672164567161731228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_138
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 2370
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb3cc83af1395b0800000000000000
+      internalID: -5362907943966360141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_139
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2332
+        width: 455
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230768d44b6200420800000000000000
+      internalID: 2594115941202030642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_140
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2382
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4af132e4c3efdd0800000000000000
+      internalID: -2450454840948579123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_141
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2341
+        width: 404
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a07d04522b42da0800000000000000
+      internalID: -5970451332915066328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_142
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 2335
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a780c1c2c554c20800000000000000
+      internalID: 3190057255580498434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_143
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 2353
+        width: 290
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc8ab499bd4abc40800000000000000
+      internalID: 5528816952010247355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_144
+      rect:
+        serializedVersion: 2
+        x: 6461
+        y: 2312
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03602474d28bc0200800000000000000
+      internalID: 147695392404932144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_145
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2293
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3170caca4f2b150800000000000000
+      internalID: 5887036685384356829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_146
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 2148
+        width: 597
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1702f9355682dc0800000000000000
+      internalID: -3663566887039503943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_147
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 2160
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d870e9c9936b1510800000000000000
+      internalID: 1520918811335751896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_148
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 2141
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2de4ea252e309a0800000000000000
+      internalID: -6267917411630001418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_149
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 2141
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad32b481cf5c468b0800000000000000
+      internalID: -5159781586529737766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_150
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 2141
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac11846d03a81a0800000000000000
+      internalID: -6806574189926823383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_151
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2109
+        width: 699
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a18541323950b6f0800000000000000
+      internalID: -670938272368328282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_152
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2205
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c422812d581cf00800000000000000
+      internalID: 1135335718468603007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_153
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 2109
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6aa1bdf7bd1e010800000000000000
+      internalID: 1216494716550031099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_154
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 2109
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab02bef7a6ace560800000000000000
+      internalID: 7344428332797266853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_155
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 2109
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59328e90c940f96b0800000000000000
+      internalID: -5287502369282055275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_156
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 2174
+        width: 249
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc9371aabdc6b40800000000000000
+      internalID: 5434960373909932851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_157
+      rect:
+        serializedVersion: 2
+        x: 6140
+        y: 2193
+        width: 290
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936fea8894e38730800000000000000
+      internalID: 4000292237852238738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_158
+      rect:
+        serializedVersion: 2
+        x: 6461
+        y: 2154
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a57b1695d5125d0800000000000000
+      internalID: -3089085230926570884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_159
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1910
+        width: 624
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45392d622370ca0800000000000000
+      internalID: -6050812432025955078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_160
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2095
+        width: 404
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53d917fa273ef30800000000000000
+      internalID: 4603649341953750487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_161
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 1916
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3d00156e2b7590800000000000000
+      internalID: -7675490128327000474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_162
+      rect:
+        serializedVersion: 2
+        x: 6165
+        y: 2016
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712067d19970568c0800000000000000
+      internalID: -4006787939270524393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_163
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 1918
+        width: 416
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11cbb308e5734590800000000000000
+      internalID: -7691174099263176417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_164
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 1918
+        width: 416
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433f8dfcfa826c50800000000000000
+      internalID: 6657036018397426502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_165
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 1918
+        width: 416
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5052082e62a360800000000000000
+      internalID: 7179421874098559557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1886
+        width: 313
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d8470a0dd98d60800000000000000
+      internalID: 7893082857085129707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_167
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1886
+        width: 536
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b50e9a4057844a0800000000000000
+      internalID: -6608903790275831029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_168
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 1872
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d77d67ca45eb0be0800000000000000
+      internalID: -1509861140716488745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_169
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 1872
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a589e14db37543890800000000000000
+      internalID: -7479257166682089382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_170
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 1872
+        width: 193
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d788002058c220800000000000000
+      internalID: 2506341291143976700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_171
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 2012
+        width: 287
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a0ed8b252341a00800000000000000
+      internalID: 726260770783758869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_172
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1663
+        width: 383
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9921ca6a35578fe0800000000000000
+      internalID: -1186886267401328227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_173
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1737
+        width: 605
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a03a6e666703b0800000000000000
+      internalID: -5546351791669467148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_174
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1737
+        width: 193
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08db50319871df6f0800000000000000
+      internalID: -649336893774381696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_175
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 1634
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8ed52a373d5a6c0800000000000000
+      internalID: -4132664589443798812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_176
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 1634
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa7db929d404c9b0800000000000000
+      internalID: -5060914750502896984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_177
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 1634
+        width: 193
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7a066f065fef90800000000000000
+      internalID: -6922219478108701302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_178
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 1696
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df177182419995d0800000000000000
+      internalID: -3055251157368234031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_179
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 1696
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81007531553ad0720800000000000000
+      internalID: 2814084927968444440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_180
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 1696
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333eb49d5080ff30800000000000000
+      internalID: 4607323558215824176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_181
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1440
+        width: 312
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27146fc35634f4c0800000000000000
+      internalID: -4254716014368647379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_182
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1440
+        width: 371
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddef01b8daa55850800000000000000
+      internalID: 6365181496018333142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_183
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1471
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65a86ad30bc1bd0800000000000000
+      internalID: -2658055901221857604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_184
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1471
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef06dd80aa259250800000000000000
+      internalID: 5950709351702728676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_185
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1471
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238129528e19d5a80800000000000000
+      internalID: -8476458497392633806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_186
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1527
+        width: 597
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc2aaf9220ac120800000000000000
+      internalID: 2434760927869062063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_187
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1527
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa86b617f89293710800000000000000
+      internalID: 1673414432604776623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_188
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1389
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19230a0bb10c5bec0800000000000000
+      internalID: -3551721505951829359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_189
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1389
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531b9913171ce370800000000000000
+      internalID: 8353076779666838363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_190
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1389
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a9486acf8fb8f0800000000000000
+      internalID: -522540932255865331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_191
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 1476
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ecf1784eb1ac70800000000000000
+      internalID: 8980668350312800931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_192
+      rect:
+        serializedVersion: 2
+        x: 5179
+        y: 1476
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7763b6833e1a89f30800000000000000
+      internalID: 4582590618125678199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_193
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 1476
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceea6d5c549ae280800000000000000
+      internalID: -9013228579803435320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_194
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 1474
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b962b420cfc525e0800000000000000
+      internalID: -1934912040729417287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_195
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 1474
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47174e3995812dad0800000000000000
+      internalID: -2679052055319645836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_196
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 1474
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e580a915ced53bcd0800000000000000
+      internalID: -2543586094971484066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_197
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 1310
+        width: 624
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e72bca3ad209b720800000000000000
+      internalID: 2862322174483179490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_198
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1310
+        width: 209
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf66665bb50c7f0800000000000000
+      internalID: -594374316147671826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_199
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 1252
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7079d44433e7a8ed0800000000000000
+      internalID: -2410975891849111801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_200
+      rect:
+        serializedVersion: 2
+        x: 7093
+        y: 1252
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deec9e59a13696a0800000000000000
+      internalID: -6442907613400338730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_201
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 1252
+        width: 416
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c7e31cf0624b20800000000000000
+      internalID: 3117160527875785224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_202
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 961
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141496dfeeeb00a50800000000000000
+      internalID: 6485393397076541761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_203
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 0
+        width: 962
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97750e0504316270800000000000000
+      internalID: 8241925989379438495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_204
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1
+        width: 961
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2366f4674c2b790800000000000000
+      internalID: -7515728815710653716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_205
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1
+        width: 961
+        height: 1248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b10fa4cdbf303910800000000000000
+      internalID: 1815020734111482297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_206
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805397b362a29eb70800000000000000
+      internalID: 8928714079933641992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_207
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf2cb479b8d48d30800000000000000
+      internalID: 4432906224278450122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_208
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ec8d2cb1c4b3e0800000000000000
+      internalID: -2038791717329770965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_209
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d8dfc789fcfdf70800000000000000
+      internalID: 9214311616462294280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_210
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c02ad6022c46920800000000000000
+      internalID: 2982722297760189514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_211
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4f9479bfcf1980800000000000000
+      internalID: -8565899570802897184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_212
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9bc59e58023d130800000000000000
+      internalID: 3590249087462324719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_213
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3628aa0bf325570c0800000000000000
+      internalID: -4578663012651859357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_214
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2359930586f4d2c0800000000000000
+      internalID: -4407627084137409747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_215
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3318abf63b12f7420800000000000000
+      internalID: 2629857761965015347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_216
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e2ccc33081d8c0800000000000000
+      internalID: -3976256036024424594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_217
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f3b534eaaba660800000000000000
+      internalID: 7398194710016424019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_218
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038480ecd18e4af0800000000000000
+      internalID: -410247730384567552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_219
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf21edcd186dea260800000000000000
+      internalID: 7110856714909258491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_220
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2f00a5518f0bb0800000000000000
+      internalID: -4967609659208816097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_221
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9553ccc7d6ce70800000000000000
+      internalID: 9135226168618098019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_222
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 1035
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f829027b04899f0800000000000000
+      internalID: -461547806535807104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_223
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 1035
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d4603ac1832200800000000000000
+      internalID: 154109517656020776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_224
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 827
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032765c657b745fa0800000000000000
+      internalID: -5812885474769472976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_225
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab8fee1ff67f980800000000000000
+      internalID: -8505206286378812795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_226
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afaa55c21dc5e960800000000000000
+      internalID: 7630730624153333665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_227
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba85345c8e2d430800000000000000
+      internalID: 3806360569017576206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_228
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 827
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9260b03342f58e0800000000000000
+      internalID: -1702602332475872778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_229
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4601456a88ec5a00800000000000000
+      internalID: 746727319338550863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_230
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 827
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d02e20ac44d2080800000000000000
+      internalID: -9210630028480344796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_231
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 827
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c41a3eff3b553b0800000000000000
+      internalID: -5524311456283013986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_232
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 828
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff63d4dce6f62ba0800000000000000
+      internalID: -6113927947065528322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_233
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82029e1f54e81610800000000000000
+      internalID: 1592273565461381770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_234
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 827
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592d3326a3b01710800000000000000
+      internalID: 1662025788636866906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_235
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 827
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f611d001f636d9400800000000000000
+      internalID: 332531276157096303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_236
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49392a89f74d1db00800000000000000
+      internalID: 851695449036460948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_237
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55f5970b2622e80800000000000000
+      internalID: -8204887061025565262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_238
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615256c6bfab823d0800000000000000
+      internalID: -3231127143620205290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_239
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf6ecb141e839b10800000000000000
+      internalID: 1987088077617524650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_240
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 827
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aef3371db3974b0800000000000000
+      internalID: -5442252903932761544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_241
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 828
+        width: 183
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1f05e05078f050800000000000000
+      internalID: 5834536810001144593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_242
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 619
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8afee1153c1ae0800000000000000
+      internalID: -1577327418346402906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_243
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765733548df94fad0800000000000000
+      internalID: -2669332927901108889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_244
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3067a06e1107dac0800000000000000
+      internalID: -3830591728073088964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_245
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde8f8f45ec0dcc0800000000000000
+      internalID: -3688221230466798149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_246
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 619
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eeeca4c00a4bd30800000000000000
+      internalID: 4446354706776649362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_247
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bab8438cd07b3330800000000000000
+      internalID: 3691668411957951159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_248
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 619
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572141baf0cc18b0800000000000000
+      internalID: -5180053288434718893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_249
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 619
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407fbbd3ab8e99e0800000000000000
+      internalID: -1612698080669372345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_250
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 622
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846de7e94794b3c0800000000000000
+      internalID: -4344681396826184564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_251
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f765a8a57e53b0800000000000000
+      internalID: -5521846725919641452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_252
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 619
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9e26da9cb3b050800000000000000
+      internalID: 5815198917069806263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_253
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 619
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36329e0604d198520800000000000000
+      internalID: 2704725213553697635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_254
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907fbf6deed9d9c90800000000000000
+      internalID: -7161394183314606327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_255
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d628ed4db84c4e00800000000000000
+      internalID: 1030278392654079705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_256
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f477bd804b0934310800000000000000
+      internalID: 1388112213077358415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_257
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c9e259d0ed2bc0800000000000000
+      internalID: -3806138886054624209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_258
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 619
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f422b95b1bfc10800000000000000
+      internalID: 2088292924271163268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_259
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 622
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068b39fec3e180c0800000000000000
+      internalID: -4575125268347517427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_260
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 411
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc59b96d87b61c600800000000000000
+      internalID: 486788401473492427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_261
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0482fe18a80eb2fe0800000000000000
+      internalID: -1212628789156173760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_262
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950021f392bb311a0800000000000000
+      internalID: -6839917623219453863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_263
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f84db92892305f0800000000000000
+      internalID: -791743468550189280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_264
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 411
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35efa1a6d8b39d0800000000000000
+      internalID: -2793483656994335810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_265
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c8d28b20855c080800000000000000
+      internalID: -9167824697739604964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_266
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 411
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a35ba238783ad30800000000000000
+      internalID: 4441542654944426584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_267
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 411
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cbc391aee9abaa0800000000000000
+      internalID: -6144424013310673783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_268
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 411
+        width: 184
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4898a95cc90abf40800000000000000
+      internalID: 5744915047946688586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_269
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8bb4becfefc2e70800000000000000
+      internalID: 9091922109987010793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_270
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 411
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90ddbd803c20fb0800000000000000
+      internalID: -4682966219696043596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_271
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 411
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868aeef7a789d9e0800000000000000
+      internalID: -1596095437320059253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_272
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78557f5e1e2f54790800000000000000
+      internalID: -7546358548549642873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_273
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b191025de6cbf1110800000000000000
+      internalID: 1233912007130880283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_274
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a511d650a31fa50800000000000000
+      internalID: 6553082727779883626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_275
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b91ca975313280800000000000000
+      internalID: -9065405778225418218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_276
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 411
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e17abcc57bc5ea50800000000000000
+      internalID: 6549864939886637545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_277
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 411
+        width: 183
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075b3625a6d58040800000000000000
+      internalID: 4649358195129276174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_278
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 217
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f642a9934be9fdee0800000000000000
+      internalID: -1234093275978521489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_279
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 217
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42312220d75c4e690800000000000000
+      internalID: -7573711532632960220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_280
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 217
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a70c761246cc980800000000000000
+      internalID: -8517322700627084668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_281
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 217
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1beead320cda250800000000000000
+      internalID: 5957629142310498773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_282
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 217
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6652938c365cc630800000000000000
+      internalID: 3948625791202514540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_283
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 217
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9cfa08a897dcdb0800000000000000
+      internalID: -4770022794544035382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_284
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 217
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ec0bb6dfb69ee20800000000000000
+      internalID: 3380351731495915059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_285
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 217
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8b0889ad4f0770800000000000000
+      internalID: 8579161205691354967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_286
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 217
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73713b72ed6d80d0800000000000000
+      internalID: -3418955722607463558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_287
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 214
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a01b9b8dca7a910800000000000000
+      internalID: 1848636218887178811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_288
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 214
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5263c56fbb0aae0800000000000000
+      internalID: -1540024405777308228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_289
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 214
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd55f189e719010800000000000000
+      internalID: 1193874568055742360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_290
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 214
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d51fbcfc430c0b0800000000000000
+      internalID: -5710506260421321315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_291
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 214
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8fda236456b3d0800000000000000
+      internalID: -3191270501047628871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_292
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 214
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748f424470f18e0c0800000000000000
+      internalID: -4546349707762010041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_293
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 214
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa9e4abdb6d7c60800000000000000
+      internalID: 7817523119293837062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_294
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 214
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b06aa3c9b22a5b60800000000000000
+      internalID: 7735533491209265333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_295
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 217
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0801186c38ac92b50800000000000000
+      internalID: 6569004198816452736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_296
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 9
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58bb14e3e9457a0800000000000000
+      internalID: -6389307981103921726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_297
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 9
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafa4295b37bfecd0800000000000000
+      internalID: -2526599400405028945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_298
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 9
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8a7b53c3d30960800000000000000
+      internalID: 7567124634919407087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_299
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 9
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1da77216a7bca0800000000000000
+      internalID: -6001145380200441098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_300
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 9
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c1a65660e118ca0800000000000000
+      internalID: -6016494614370182111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_301
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 9
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba144866cfff9d0800000000000000
+      internalID: -2738192531182212236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_302
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 9
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be04317edcccb310800000000000000
+      internalID: 1422236838096277173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_303
+      rect:
+        serializedVersion: 2
+        x: 5797
+        y: 9
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7bff6cd6402f4b0800000000000000
+      internalID: -5408255332981950552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_304
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 11
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197cea0fc2bdc300800000000000000
+      internalID: 274071754650712343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_305
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 6
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6164d3c64ac131b0800000000000000
+      internalID: -5678535249855487636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_306
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 6
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565456e1d5646fc0800000000000000
+      internalID: -3502562658000546216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_307
+      rect:
+        serializedVersion: 2
+        x: 6597
+        y: 6
+        width: 183
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d2d6e93074a3950800000000000000
+      internalID: 6429529498893233466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_308
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 6
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f8e9b2a85a4eb0800000000000000
+      internalID: -4734874602299655993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_309
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 6
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217735508c9e98ac0800000000000000
+      internalID: -3852290960946661614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_310
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 6
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec351c08ca0af5880800000000000000
+      internalID: -8619994499008867378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_311
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 6
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bd44fd355b6fc10800000000000000
+      internalID: 2087054849165548383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_312
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 6
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05570adf8684b7b90800000000000000
+      internalID: -7243115959926360752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUIPNG_313
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 6
+        width: 183
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2436d0a46d82a0800000000000000
+      internalID: -6733615225897734904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4eb07f4a8b0aa0e4ca0a43a115f851ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
