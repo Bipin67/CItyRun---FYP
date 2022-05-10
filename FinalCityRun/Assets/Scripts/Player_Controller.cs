@@ -12,7 +12,7 @@ public class Player_Controller : MonoBehaviour
     private Animator anim;
     private bool _isDead;
 
-    public float speed = 10.0f;
+    public float speed ;
     private float _verticalVelocity = 0.5f;
     private float gravity = 12.0f;
 
@@ -45,6 +45,7 @@ public class Player_Controller : MonoBehaviour
     {
         coinCount.text = coin.ToString();
         coinCount2.text = coin.ToString();
+        
         //On test 2
         if (IsBoosting)
         {
@@ -53,7 +54,7 @@ public class Player_Controller : MonoBehaviour
             {
                 IsBoosting = false;
                 Bostertimer = 0;
-                speed = 10.0f;
+                speed = 15.0f;
             }
         }//
     
@@ -90,17 +91,8 @@ public class Player_Controller : MonoBehaviour
         //     }
         // }
         
-        //Player Jump activation 
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            jump = true;
-        }
-        else 
-        {
-            jump = false;
-            anim.SetBool("isJump", false);
-        }
-
+       
+        
         switch (horizontalMovement)
         {
             //HAWA MOVEMENT
@@ -113,14 +105,28 @@ public class Player_Controller : MonoBehaviour
                 moveVector.x = -speed;
                 Debug.Log("Left CLicked");
                 break;
-            
         }
-        
+
+        //Player Jump activation 
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            jump = true;
+        }
+
         if(jump)
         {
-            anim.SetBool("isJump", true);
-             
+            StartCoroutine(StartJump(callback =>
+            {
+                if (callback)
+                {
+                    jump = false;
+                    Debug.Log("i called you back");
+                    anim.SetBool("isJump", false);  
+                }
+                
+            }));
         }
+        
         else if (!jump)
         {
             anim.SetBool("isJump", false);
@@ -132,23 +138,26 @@ public class Player_Controller : MonoBehaviour
         {
             slide = true;
         }
-        else 
+
+        if(slide)
         {
-            slide = false;
+            StartCoroutine(StartSLide(callback =>
+            {
+                if (callback)
+                {
+                    slide = false;
+                    Debug.Log("i called you back");
+                    anim.SetBool("isSlide", false);  
+                }
+                
+            }));
+        }
+        
+        else if (!slide)
+        {
             anim.SetBool("isSlide", false);
-            
         }
 
-        if(slide == true)
-        {
-            anim.SetBool("isSlide", true);
-            
-        }
-        else if (slide == false)
-        {
-            anim.SetBool("isSlide", false);
-            
-        }
         
 
         // z -  Forward and backward
@@ -159,7 +168,7 @@ public class Player_Controller : MonoBehaviour
 
     public void SetSpeed(float modifier)
     {
-        speed = 10.0f + modifier;
+        speed = 15.0f + modifier;
     }
 
 
@@ -184,10 +193,10 @@ public class Player_Controller : MonoBehaviour
         if (other.tag == "Booster")
         {
             IsBoosting = true;
-            speed = 50.0f;
+            speed = 35.0f;
             Destroy(other.gameObject, 0.1f);
             coinSound.Play();
-            coin += 1f;
+            // coin += 1f;
         }//
 
     }
@@ -217,5 +226,33 @@ public class Player_Controller : MonoBehaviour
         Moveright = right;
         
     }
+
+    public void JumpButton()
+    {
+        jump = true;
+    }
     
+    public void SlideButton()
+    {
+        slide = true;
+    }
+
+    private IEnumerator StartJump( Action<bool> callback)
+    {
+        Debug.Log(" i am inside you");
+        anim.SetBool("isJump", true);
+        
+        yield return new WaitForSeconds(.25f);
+        callback(true);
+    }
+    
+    private IEnumerator StartSLide( Action<bool> callback)
+    {
+        Debug.Log(" i am inside you");
+        anim.SetBool("isSlide", true);
+        
+        yield return new WaitForSeconds(.25f);
+        callback(true);
+    }
+
 }
