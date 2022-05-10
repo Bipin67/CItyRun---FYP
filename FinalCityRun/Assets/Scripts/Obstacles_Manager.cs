@@ -33,7 +33,7 @@ public class Obstacles_Manager : MonoBehaviour
 
         int RandomXpos = UnityEngine.Random.Range(0, xpos.Length);
 
-        Vector3 spawnPosition = new Vector3(xpos[RandomXpos], 1.2f, player.position.z + 30);
+        Vector3 spawnPosition = new Vector3(xpos[RandomXpos], 1.2f, player.position.z + 40);
         Instantiate(obstacles[randomObstacles], spawnPosition, obstacles[randomObstacles].transform.rotation);
         StartCoroutine(spawnObstacles());
     }

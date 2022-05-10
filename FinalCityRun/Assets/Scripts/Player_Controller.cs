@@ -24,6 +24,8 @@ public class Player_Controller : MonoBehaviour
     public AudioSource GameOverSound;
     public bool jump = false;
     public bool slide = false;
+    public bool horizontalMovement = false;
+    public bool Moveright = false;
 
     //On test 2
     private float Bostertimer;
@@ -54,7 +56,7 @@ public class Player_Controller : MonoBehaviour
                 speed = 10.0f;
             }
         }//
-
+    
         if (_isDead)
         {
             return;
@@ -76,17 +78,17 @@ public class Player_Controller : MonoBehaviour
         moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
         
         // //for mobile divices
-        if (Input.GetMouseButton(0))
-        {
-            if (Input.mousePosition.x < Screen.width / 4 )
-            {
-                moveVector.x = -speed;
-            }
-            else
-            {
-                moveVector.x = speed;
-            }
-        }
+        // if (Input.GetMouseButton(0))
+        // {
+        //     if (Input.mousePosition.x < Screen.width / 4 )
+        //     {
+        //         moveVector.x = -speed;
+        //     }
+        //     else
+        //     {
+        //         moveVector.x = speed;
+        //     }
+        // }
         
         //Player Jump activation 
         if (Input.GetKeyDown(KeyCode.Space))
@@ -99,13 +101,27 @@ public class Player_Controller : MonoBehaviour
             anim.SetBool("isJump", false);
         }
 
-        if(jump == true)
+        switch (horizontalMovement)
+        {
+            //HAWA MOVEMENT
+            case true when Moveright:
+                moveVector.x = speed;
+                Debug.Log("Right CLicked");
+                
+                break;
+            case true when !Moveright:
+                moveVector.x = -speed;
+                Debug.Log("Left CLicked");
+                break;
+            
+        }
+        
+        if(jump)
         {
             anim.SetBool("isJump", true);
-            Controller.height = 0.5f;
-            Controller.radius = 0.2f;
+             
         }
-        else if (jump == false)
+        else if (!jump)
         {
             anim.SetBool("isJump", false);
         }
@@ -126,8 +142,7 @@ public class Player_Controller : MonoBehaviour
         if(slide == true)
         {
             anim.SetBool("isSlide", true);
-            Controller.height = 0.5f;
-            Controller.radius = 0.2f;
+            
         }
         else if (slide == false)
         {
@@ -163,8 +178,6 @@ public class Player_Controller : MonoBehaviour
         {
             Destroy(other.gameObject, 0.1f);
             coinSound.Play();
-            Controller.height = 1.76f;
-            Controller.radius = 0.4f;
             coin += 1f;
         }
         // if the player hits a booster
@@ -193,4 +206,16 @@ public class Player_Controller : MonoBehaviour
         //reload the scene
         Application.LoadLevel(Application.loadedLevelName);
     }
+
+    public void ClickedOnMovement(bool clicked)
+    {
+        horizontalMovement = clicked;
+    }
+
+    public void MoveRight(bool right)
+    {
+        Moveright = right;
+        
+    }
+    
 }
