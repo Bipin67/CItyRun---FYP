@@ -10,7 +10,7 @@ public class Quit : MonoBehaviour
 
     private void Start()
     {
-        panel.gameObject.SetActive(false);
+        // panel.gameObject.SetActive(false);
     }
 
 

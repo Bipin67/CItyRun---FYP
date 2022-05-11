@@ -36,10 +36,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -101,59 +99,59 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1476}
+      Script: {instanceID: 1482}
     - Class: 114
-      Script: {instanceID: 1680}
+      Script: {instanceID: 1686}
     - Class: 114
-      Script: {instanceID: 1694}
+      Script: {instanceID: 1700}
     - Class: 114
-      Script: {instanceID: 1774}
+      Script: {instanceID: 1780}
     - Class: 114
-      Script: {instanceID: 1800}
+      Script: {instanceID: 1806}
     - Class: 114
-      Script: {instanceID: 1908}
+      Script: {instanceID: 1914}
     - Class: 114
-      Script: {instanceID: 2026}
+      Script: {instanceID: 2032}
     - Class: 114
-      Script: {instanceID: 2086}
+      Script: {instanceID: 2092}
     - Class: 114
-      Script: {instanceID: 2256}
+      Script: {instanceID: 2262}
     - Class: 114
-      Script: {instanceID: 2402}
+      Script: {instanceID: 2408}
     - Class: 114
-      Script: {instanceID: 2520}
+      Script: {instanceID: 2526}
     - Class: 114
-      Script: {instanceID: 2564}
+      Script: {instanceID: 2570}
     - Class: 114
-      Script: {instanceID: 2708}
+      Script: {instanceID: 2714}
     - Class: 114
-      Script: {instanceID: 2900}
+      Script: {instanceID: 2906}
     - Class: 114
-      Script: {instanceID: 2938}
+      Script: {instanceID: 2944}
     - Class: 114
-      Script: {instanceID: 2998}
+      Script: {instanceID: 3004}
     - Class: 114
-      Script: {instanceID: 3054}
+      Script: {instanceID: 3060}
     - Class: 114
-      Script: {instanceID: 3272}
+      Script: {instanceID: 3278}
     - Class: 114
-      Script: {instanceID: 3276}
+      Script: {instanceID: 3282}
     - Class: 114
-      Script: {instanceID: 3412}
+      Script: {instanceID: 3418}
     - Class: 114
-      Script: {instanceID: 3560}
+      Script: {instanceID: 3566}
     - Class: 114
-      Script: {instanceID: 3808}
+      Script: {instanceID: 3814}
     - Class: 114
-      Script: {instanceID: 4032}
+      Script: {instanceID: 4038}
     - Class: 114
-      Script: {instanceID: 4284}
+      Script: {instanceID: 4290}
     - Class: 114
-      Script: {instanceID: 4592}
+      Script: {instanceID: 4598}
     - Class: 114
-      Script: {instanceID: 4650}
+      Script: {instanceID: 4656}
     - Class: 114
-      Script: {instanceID: 4766}
+      Script: {instanceID: 4772}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -208,53 +206,53 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1476}
-    - Class: 114
-      Script: {instanceID: 1680}
+      Script: {instanceID: 1482}
     - Class: 114
       Script: {instanceID: 1686}
     - Class: 114
-      Script: {instanceID: 1694}
+      Script: {instanceID: 1692}
     - Class: 114
-      Script: {instanceID: 1774}
+      Script: {instanceID: 1700}
     - Class: 114
-      Script: {instanceID: 1900}
+      Script: {instanceID: 1780}
     - Class: 114
-      Script: {instanceID: 2074}
+      Script: {instanceID: 1906}
     - Class: 114
-      Script: {instanceID: 2086}
+      Script: {instanceID: 2080}
     - Class: 114
-      Script: {instanceID: 2402}
+      Script: {instanceID: 2092}
     - Class: 114
-      Script: {instanceID: 2520}
+      Script: {instanceID: 2408}
     - Class: 114
-      Script: {instanceID: 2564}
+      Script: {instanceID: 2526}
     - Class: 114
-      Script: {instanceID: 2708}
+      Script: {instanceID: 2570}
     - Class: 114
-      Script: {instanceID: 2752}
+      Script: {instanceID: 2714}
     - Class: 114
-      Script: {instanceID: 2900}
+      Script: {instanceID: 2758}
     - Class: 114
-      Script: {instanceID: 2998}
+      Script: {instanceID: 2906}
     - Class: 114
-      Script: {instanceID: 3272}
+      Script: {instanceID: 3004}
     - Class: 114
-      Script: {instanceID: 3276}
+      Script: {instanceID: 3278}
     - Class: 114
-      Script: {instanceID: 3322}
+      Script: {instanceID: 3282}
     - Class: 114
-      Script: {instanceID: 3412}
+      Script: {instanceID: 3328}
     - Class: 114
-      Script: {instanceID: 3898}
+      Script: {instanceID: 3418}
     - Class: 114
-      Script: {instanceID: 4018}
+      Script: {instanceID: 3904}
     - Class: 114
-      Script: {instanceID: 4306}
+      Script: {instanceID: 4024}
     - Class: 114
-      Script: {instanceID: 4438}
+      Script: {instanceID: 4312}
     - Class: 114
-      Script: {instanceID: 4766}
+      Script: {instanceID: 4444}
+    - Class: 114
+      Script: {instanceID: 4772}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -828,7 +826,7 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
-      Hash: 07001f2a4051197c7dca742551006a5b
+      Hash: b1ec8bc602dcf4ef2a76f9d7a596e1f4
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Death_Menu
@@ -1046,4 +1044,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/MainScene.unity
-  playerPath: C:/Users/bipin/OneDrive/Desktop/CityRun.apk
+  playerPath: C:/Users/bipin/OneDrive/Desktop/CityRun1.apk

@@ -7,9 +7,9 @@ using UnityEngine.UI;
 public class Player_Controller : MonoBehaviour
 {
     // instances
-    private CharacterController Controller;
-    private Vector3 moveVector;
-    private Animator anim;
+    private CharacterController _controller;
+    private Vector3 _moveVector;
+    private Animator _anim;
     private bool _isDead;
 
     public float speed ;
@@ -28,15 +28,15 @@ public class Player_Controller : MonoBehaviour
     public bool Moveright = false;
 
     //On test 2
-    private float Bostertimer;
-    private bool IsBoosting;//
+    private float _bostertimer;
+    private bool _isBoosting;//
     
 
     
     void Start()
     {
-        Controller = GetComponent<CharacterController>();
-        anim = GetComponent<Animator>();
+        _controller = GetComponent<CharacterController>();
+        _anim = GetComponent<Animator>();
         MainTheme.Play();
     }
 
@@ -47,13 +47,13 @@ public class Player_Controller : MonoBehaviour
         coinCount2.text = coin.ToString();
         
         //On test 2
-        if (IsBoosting)
+        if (_isBoosting)
         {
-            Bostertimer += Time.deltaTime;
-            if (Bostertimer >= 3)
+            _bostertimer += Time.deltaTime;
+            if (_bostertimer >= 3)
             {
-                IsBoosting = false;
-                Bostertimer = 0;
+                _isBoosting = false;
+                _bostertimer = 0;
                 speed = 15.0f;
             }
         }//
@@ -63,10 +63,10 @@ public class Player_Controller : MonoBehaviour
             return;
         }
 
-        moveVector = Vector3.zero;
+        _moveVector = Vector3.zero;
 
         // check if the player is grounded
-        if (Controller.isGrounded)
+        if (_controller.isGrounded)
         {
             _verticalVelocity = -0.5f;
         }
@@ -76,7 +76,7 @@ public class Player_Controller : MonoBehaviour
         }
 
         // x - left and right
-        moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
+        _moveVector.x = Input.GetAxisRaw("Horizontal") * speed;
         
         // //for mobile divices
         // if (Input.GetMouseButton(0))
@@ -95,14 +95,14 @@ public class Player_Controller : MonoBehaviour
         
         switch (horizontalMovement)
         {
-            //HAWA MOVEMENT
+            //button movement
             case true when Moveright:
-                moveVector.x = speed;
+                _moveVector.x = speed;
                 Debug.Log("Right CLicked");
                 
                 break;
             case true when !Moveright:
-                moveVector.x = -speed;
+                _moveVector.x = -speed;
                 Debug.Log("Left CLicked");
                 break;
         }
@@ -121,7 +121,7 @@ public class Player_Controller : MonoBehaviour
                 {
                     jump = false;
                     Debug.Log("i called you back");
-                    anim.SetBool("isJump", false);  
+                    _anim.SetBool("isJump", false);  
                 }
                 
             }));
@@ -129,7 +129,7 @@ public class Player_Controller : MonoBehaviour
         
         else if (!jump)
         {
-            anim.SetBool("isJump", false);
+            _anim.SetBool("isJump", false);
         }
 
 
@@ -147,22 +147,22 @@ public class Player_Controller : MonoBehaviour
                 {
                     slide = false;
                     Debug.Log("i called you back");
-                    anim.SetBool("isSlide", false);  
+                    _anim.SetBool("isSlide", false);  
                 }
-                
             }));
         }
         
         else if (!slide)
         {
-            anim.SetBool("isSlide", false);
+            _anim.SetBool("isSlide", false);
         }
 
         
 
         // z -  Forward and backward
-        moveVector.z = speed;
-        Controller.Move(moveVector * Time.deltaTime); // move forward
+        _moveVector.z = speed;
+        //move forward
+        _controller.Move(_moveVector * Time.deltaTime); 
      
     }
 
@@ -192,7 +192,7 @@ public class Player_Controller : MonoBehaviour
         // if the player hits a booster
         if (other.tag == "Booster")
         {
-            IsBoosting = true;
+            _isBoosting = true;
             speed = 35.0f;
             Destroy(other.gameObject, 0.1f);
             coinSound.Play();
@@ -205,7 +205,7 @@ public class Player_Controller : MonoBehaviour
     {
         // destroy the obstacle
         _isDead = true;
-        anim.SetTrigger("death");
+        _anim.SetTrigger("death");
         MainTheme.Stop();
         GameOverSound.Play();
         GetComponent<Score>().OnDeath();
@@ -240,7 +240,7 @@ public class Player_Controller : MonoBehaviour
     private IEnumerator StartJump( Action<bool> callback)
     {
         Debug.Log(" i am inside you");
-        anim.SetBool("isJump", true);
+        _anim.SetBool("isJump", true);
         
         yield return new WaitForSeconds(.25f);
         callback(true);
@@ -249,7 +249,7 @@ public class Player_Controller : MonoBehaviour
     private IEnumerator StartSLide( Action<bool> callback)
     {
         Debug.Log(" i am inside you");
-        anim.SetBool("isSlide", true);
+        _anim.SetBool("isSlide", true);
         
         yield return new WaitForSeconds(.25f);
         callback(true);

@@ -6,42 +6,34 @@ using UnityEngine.UI;
 
 public class Death_Menu : MonoBehaviour
 {
+    //Instances
     public Image BackgroundImage;
     public Text scoreText;
-    // private bool isShown = false;
-    // private float transition = 0.0f;
-    // Start is called before the first frame update
+    public GameObject panel;
+    
     void Start()
     {
         gameObject.SetActive(false);
     }
-
-    // Update is called once per frame
-    void Update()
+   public void ToggleEndMenu(float score)
     {
-        // if (!isShown)
-        // {
-        //     return;
-        //     transition += Time.deltaTime;
-        //     BackgroundImage.color = Color.Lerp(new Color(0, 0, 0, 0), Color.black, transition);
-        // }
-
-    }
-
-    public void ToggleEndMenu(float score)
-    {
+        //enabling the game object
         gameObject.SetActive(true);
+        //disabling the game object
+        panel.SetActive(false);
+        //converting the int value to string.
         scoreText.text = ((int)score).ToString();
-        // isShown = true;
     }
 
     public void Restart()
     {
+        //Reloading the game scene.
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void Menu()
     {
+        //changing the game scene to menu.
         SceneManager.LoadScene("Menu");
     }
 }
